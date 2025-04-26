@@ -1,6 +1,6 @@
 # Math Learning Game 🎯
 
-A simple and fun C++ console game to practice math skills — choose your level and operation and learn while playing!
+A simple and fun  C++ desktop console application game to practice math skills — choose your level and operation and learn while playing!
 
 Ein einfaches und unterhaltsames C++-Konsolenspiel zum Üben von Mathematikkenntnissen — wähle deinen Schwierigkeitsgrad und die Rechenart und lerne spielerisch!
 
@@ -17,7 +17,7 @@ Players can choose the difficulty level and the type of operation, such as addit
 
 ## Deutsch 🇩🇪
 
-Dieses Programm wurde entwickelt, um mathematische Fähigkeiten zu verbessern.  
+Diese C++-Konsolenanwendung für Desktop wurde entwickelt, um mathematische Fähigkeiten zu verbessern.  
 Die Spieler können den Schwierigkeitsgrad und die Art der Rechenoperation wählen, wie zum Beispiel Addition oder Subtraktion, und auf spielerische Weise lernen.
 
 ---
